@@ -1,1 +1,3 @@
-# PS3-CELL-CPU-Linux-Example-Progs
+## PS3-CELL-CPU-Linux-Example-Progs
+---
+So I've been reading this awesome textbook [Programming the CELL Processor for Games, Graphics, and Computation](https://www.amazon.com/Programming-Cell-Processor-Graphics-Computation/dp/0136008860) by Matthew Scarpino and testing out the code examples given in the text on my own jailbroke Playstation 3 running Fedora Linux (ppc) with components of the Cell CPU SDK installed. Here is a repo of my work so far...
