@@ -1,7 +1,7 @@
 SCC = spu-gcc
 
 spu_dectest: spu_dectest.c
-	$(SCC) -o $@ $^ -lsimdmath -lmassv
+	$(SCC) -O3 -o $@ $^ -lsimdmath -lmassv
 
 .PHONY: clean
 
