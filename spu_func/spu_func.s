@@ -1,7 +1,7 @@
     .text
     .align 4
     .global func
-    .type func, %function
+    .type func, @function
 
 func:
     # Decrement the stack to store two local variables

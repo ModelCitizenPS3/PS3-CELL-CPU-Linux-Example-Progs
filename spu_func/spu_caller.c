@@ -1,5 +1,3 @@
-// calling an assembly coded function
-
 #include <stdio.h>
 
 extern int func(int, int);
